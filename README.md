@@ -1,14 +1,13 @@
 ### Olá, eu sou a Rebeca Borba! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-borba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-borba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebecaborba15@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531993543339)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rebecaborba_)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("https://wa.me/5531993543339)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]("https://www.instagram.com/rebecaborba_)
 
 
 ![Borba GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecaborba&show_icons=true&theme=radical)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rebecaborba)](https://github.com/rebecaborba/github-readme-stats)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaborba&layout=compact)
 
 ### Tecnologias que uso no meu dia
 
