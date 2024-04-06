@@ -8,6 +8,8 @@
 
 ![Borba GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecaborba&show_icons=true&theme=radical)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rebecaborba)](https://github.com/rebecaborba/github-readme-stats)
+
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
