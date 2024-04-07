@@ -18,3 +18,4 @@
 
 </div>
 
+![snake gif](https://github.com/rebecaborba/rebecaborba/blob/output/github-contribution-grid-snake.gif)
